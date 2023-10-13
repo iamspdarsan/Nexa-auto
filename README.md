@@ -51,3 +51,44 @@ Reach Out: Have questions or need assistance? We're here to help! Feel free to o
 Explore the Code 🚀
 
 Let NexaAuto be your trusted partner in the world of data automation. We look forward to embarking on this exciting journey with you!
+
+
+# Project Requirements and Installation
+
+To run NexaAuto and harness its full potential, you'll need to install the following Python packages using `pip`. Make sure you have Python and `pip` installed on your system. If not, you can download Python from the [official website](https://www.python.org/downloads/), and `pip` will be included by default.
+
+## Pandas
+[Pandas](https://pandas.pydata.org/) is a powerful data manipulation and analysis library. It's essential for efficient data structuring and manipulation in NexaAuto.
+
+**Installation:**
+
+```bash
+pip install pandas
+```
+
+## TQDM
+
+TQDM is a fast, extensible progress bar for loops and processes. It provides real-time feedback on the progress of various tasks, making your experience with NexaAuto smoother.
+
+**Installation:**
+```bash
+pip install tqdm
+```
+
+## Selenium
+Selenium is a web automation tool that allows you to control web browsers through programs and perform tasks like web scraping. It's a fundamental component for data gathering in NexaAuto.
+
+**Installation:**
+
+```bash
+pip install selenium
+```
+
+## EdgeGPT
+I have used this reverse engineered BingGPT API by acheong08: <https://github.com/acheong08/EdgeGPT>
+
+```bash
+python3 -m pip install EdgeGPT --upgrade
+```
+
+Once you've installed these packages, you're ready to start using NexaAuto for your automated building data generation needs.
