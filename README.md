@@ -1,50 +1,26 @@
 <div align="center">
 
-# [Title] - [short desc]
+# Nexa Auto - Automated Address Verification and Data Entry
 
-<p id="intro">[This is a placeholder paragraph. Here some introductory text or describe the content that will eventually go in this section. This text is meant to give a sense of how the final content will look in the design.]
-</p>
+<p id="intro">Nexa Auto automates the process of verifying the authenticity of addresses for room service eligibility and retrieving detailed specifications across multiple websites. Utilizing Selenium for web automation and GPT for handling missing data, Nexa Auto significantly reduces manual effort in data entry tasks.</p>
 
 ### Supported Platforms
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 ---
-
-[uname-holder/reponame-holder] [npm-name-holder] [wf-holder] - for test&build
 
 <p>
 
 <span>
-  <a href="https://github.com/uname-holder/reponame-holder/commits/main">
-    <img src="https://img.shields.io/github/last-commit/uname-holder/reponame-holder?display_timestamp=committer&style=for-the-badge&label=Updated%20On" alt="GitHub last commit"/>
+  <a href="https://github.com/darsan-in/Nexa-auto/commits/main">
+    <img src="https://img.shields.io/github/last-commit/darsan-in/Nexa-auto?display_timestamp=committer&style=for-the-badge&label=Updated%20On" alt="GitHub last commit"/>
   </a>
 </span>
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/github/commit-activity/m/uname-holder/reponame-holder?style=for-the-badge&label=Commit%20Activity" alt="GitHub commit activity"/>
-  </a>
-</span>
-
-</p>
-
-<p>
-
-<span>
-  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=Build%20Status" alt="GitHub Actions Build Status"/>
-  </a>
-</span>
-
-<span>
-  <a href="https://github.com/uname-holder/reponame-holder/actions/workflows/wf-holder.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/uname-holder/reponame-holder/wf-holder.yml?style=for-the-badge&label=Test%20Status" alt="GitHub Actions Test Status"/>
+    <img src="https://img.shields.io/github/commit-activity/m/darsan-in/Nexa-auto?style=for-the-badge&label=Commit%20Activity" alt="GitHub commit activity"/>
   </a>
 </span>
 
@@ -56,13 +32,13 @@
 
 <span>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/uname-holder/reponame-holder?style=for-the-badge&label=License" alt="GitHub License"/>
+    <img src="https://img.shields.io/github/license/darsan-in/Nexa-auto?style=for-the-badge&label=License" alt="GitHub License"/>
   </a>
 </span>
 
 <span>
-  <a href="https://github.com/uname-holder/reponame-holder/releases">
-    <img src="https://img.shields.io/github/v/release/uname-holder/reponame-holder?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
+  <a href="https://github.com/darsan-in/Nexa-auto/releases">
+    <img src="https://img.shields.io/github/v/release/darsan-in/Nexa-auto?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
   </a>
 </span>
 
@@ -71,8 +47,8 @@
 <p>
 
 <span>
-  <a href="https://www.codefactor.io/repository/github/uname-holder/reponame-holder/issues/main">
-    <img src="https://img.shields.io/codefactor/grade/github/uname-holder/reponame-holder?style=for-the-badge&label=Code%20Quality%20Grade" alt="CodeFactor Grade"/>
+  <a href="https://www.codefactor.io/repository/github/darsan-in/Nexa-auto/issues/main">
+    <img src="https://img.shields.io/codefactor/grade/github/darsan-in/Nexa-auto?style=for-the-badge&label=Code%20Quality%20Grade" alt="CodeFactor Grade"/>
   </a>
 </span>
 
@@ -84,21 +60,9 @@
 
 <span>
   <a href="">
-    <img src="https://img.shields.io/npm/d18m/npm-name-holder?style=for-the-badge&label=Downloads%20On%20NPM" alt="NPM Downloads"/>
+    <img src="https://img.shields.io/github/stars/darsan-in/Nexa-auto?style=for-the-badge&label=Stars" alt="GitHub Repo stars"/>
   </a>
 </span>
-
-<span>
-  <a href="">
-    <img src="https://img.shields.io/github/stars/uname-holder/reponame-holder?style=for-the-badge&label=Stars" alt="GitHub Repo stars"/>
-  </a>
-</span>
-
-</p>
-
----
-
-<p>
 
 <span>
   <a href="https://github.com/sponsors/darsan-in">
@@ -118,27 +82,33 @@
 - [Use Cases](#use-cases-)
 - [Friendly request to users](#-friendly-request-to-users)
 
-- [Installation - Step-by-Step Guide](#installation---step-by-step-guide-)
 - [Usage](#usage)
-- [In-Action](#in-action-)
 
 - [License](#license-%EF%B8%8F)
 - [Contributing to Our Project](#contributing-to-our-project-)
-- [Website](#website-)
 
 - [Contact Information](#contact-information)
 - [Credits](#credits-)
 
 ## Features and Benefits ✨
 
-- [f1]
-- [f2]
-- [fn]
+- **Automated Address Lookup**: Seamlessly searches and verifies addresses across Zillow, Trulia, Apartments.com, and Redfin.
+- **Detailed Address Specifications**: Automatically retrieves specific details such as building type, complex address, units count, buildings count, apartment availability, complex name, URL, apartment alternate address, and comments.
+- **Web Automation with Selenium**: Efficiently interacts with web pages, mimicking manual search tasks to collect and verify data.
+- **Handles Missing Information**: Utilizes a reverse-engineered GPT model to predict missing address data when websites do not provide complete information.
+- **Customizable and Scalable**: Easily adaptable to include additional websites or other data verification tasks.
+- **Time-Saving**: Drastically reduces the time spent on repetitive data entry by automating the entire process.
+- **Error Reduction**: Minimizes human error by automating the verification and data entry process.
+- **Seamless Integration**: Combines web scraping and AI to ensure accuracy and reliability in data collection.
 
 ## Use Cases ✅
 
-- [usecase 1]
-- [use case 2]
+- **Data Entry Automation**: Ideal for businesses or individuals needing to verify large lists of addresses quickly and accurately, along with detailed specifications.
+- **Room Service Eligibility Verification**: Ensures addresses qualify for room service by cross-referencing multiple reliable sources.
+- **Real Estate Data Collection**: Gathers comprehensive details about properties, including availability, building type, and more.
+- **Scalable Web Scraping**: Can be adapted for scraping other types of data from various websites.
+- **Data Completeness**: Uses AI to predict and fill in missing information, ensuring complete data sets.
+- **Customized Data Verification**: Suitable for any task requiring verification of information and detailed specifications across multiple online sources.
 
 ---
 
@@ -156,32 +126,25 @@ Thank you for being part of this journey. Your support means the world to us. �
 
 ---
 
-## Installation - Step-by-Step Guide 🪜
-
-[Installation instructions here]
-
-- **Step 1:**
-- **Step 2:**
-- **Step 3:**
-- **Step 4:**
-- **Step 5:**
-
 ## Usage
 
-- [purpose heading]
-  [Demonstration here]
+- **Step 1:** Install required libraries.
 
 ```bash
-demo
+pip install -r requirements.txt
 ```
 
-## In-Action 🤺
+- **Step 2:** Store input as `data.xlsx` in `input` directory.
 
-[video] or [gif] or [image]
+- **Step 3:** Run `nexaauto.py` in terminal
+
+```bash
+python nexaauto.py
+```
 
 ## License ©️
 
-This project is licensed under the [Apache License 2.0 or GNU General Public License v3.0 or MIT](LICENSE).
+This project is licensed under the [MIT](LICENSE).
 
 ## Contributing to Our Project 🤝
 
@@ -195,17 +158,13 @@ We deeply appreciate everyone who contributes or raises issues—your efforts ar
 
 Thank you for being part of this journey!
 
-## Website 🌐
-
-<a id="url" href="https://darsan.in">[https://darsan.in]</a>
-
 ## Contact Information
 
 For any questions, please reach out via hello@darsan.in or [LinkedIn](https://www.linkedin.com/in/darsan-in/).
 
 ## Credits 🙏🏻
 
-[credits to lib maintainers/creators]
+Special thanks to [JE-Chen](https://github.com/JE-Chen) for their work on [ReEdgeGPT](https://github.com/Integration-Automation/ReEdgeGPT), which was instrumental in the development of the GPT integration for this project.
 
 ---
 
@@ -278,10 +237,24 @@ For any questions, please reach out via hello@darsan.in or [LinkedIn](https://ww
 #### Topics
 
 <ul id="keywords">
-
-<li>A</li>
-<li>B</li>
-<li>C</li>
-<li>D</li>
-
+<li>address verification</li>
+<li>web automation</li>
+<li>selenium scraping</li>
+<li>GPT integration</li>
+<li>data entry automation</li>
+<li>real estate data</li>
+<li>address lookup</li>
+<li>room service eligibility</li>
+<li>web scraping</li>
+<li>missing data prediction</li>
+<li>AI-enhanced automation</li>
+<li>customizable scripts</li>
+<li>scalable automation</li>
+<li>error reduction</li>
+<li>data completeness</li>
+<li>data verification</li>
+<li>real estate</li>
+<li>automation tools</li>
+<li>address validation</li>
+<li>property details</li>
 </ul>

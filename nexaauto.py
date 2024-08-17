@@ -1,18 +1,20 @@
+from pandas import DataFrame, read_excel
+from re_edge_gpt import Chatbot, ConversationStyle
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-from re_edge_gpt import Chatbot, ConversationStyle
-from pandas import DataFrame, read_excel
+from selenium.webdriver.support.ui import WebDriverWait
 from tqdm import tqdm
+
 """ from asyncio import get_event_loop """
-from json import loads, dump, load
-from re import sub
-from time import time
 from inspect import currentframe
+from json import dump, load, loads
+from re import sub
 from string import punctuation
+from time import time
+
 from selenium.common.exceptions import NoSuchElementException
 
 tillnow = 0
